@@ -1,29 +1,28 @@
-name: Build firmware
+name: STM32 Bootloader Build
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   pull_request:
-    branches: [ main ]
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
-    # Add ARM GCC path for Windows
-    - name: Add ARM GCC to PATH
-      run: echo "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin" >> $env:GITHUB_PATH
+    - name: Install ARM GCC
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y gcc-arm-none-eabi binutils-arm-none-eabi
 
-    # Build
-    - name: Build
+    - name: Build firmware
       run: |
         make clean
         make
-
 
     - name: Upload firmware files
       uses: actions/upload-artifact@v4

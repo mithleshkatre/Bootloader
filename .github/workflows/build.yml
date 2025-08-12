@@ -31,3 +31,5 @@ jobs:
         path: |
           build/**/*.elf
           build/**/*.bin
+          build/**/*.hex
+          build/**/*.map

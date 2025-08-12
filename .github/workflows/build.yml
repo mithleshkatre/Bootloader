@@ -1,0 +1,34 @@
+name: STM32 Bootloader Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install ARM GCC
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y gcc-arm-none-eabi binutils-arm-none-eabi
+
+    - name: Build firmware
+      run: |
+        make clean
+        make
+
+    - name: Upload firmware files
+      uses: actions/upload-artifact@v4
+      with:
+        name: bootloader-build
+        path: |
+          build/*.elf
+          build/*.hex
+          build/*.bin

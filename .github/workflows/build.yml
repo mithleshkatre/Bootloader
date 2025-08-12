@@ -1,10 +1,10 @@
-name: STM32 Bootloader Build
+name: Build and Upload Firmware
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   pull_request:
+    branches: [ main ]
 
 jobs:
   build:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
 
     - name: Install ARM GCC
       run: |
@@ -24,11 +24,10 @@ jobs:
         make clean
         make
 
-    - name: Upload firmware files
-      uses: actions/upload-artifact@v4
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v3
       with:
-        name: bootloader-build
+        name: firmware
         path: |
-          build/*.elf
-          build/*.hex
-          build/*.bin
+          build/**/*.elf
+          build/**/*.bin

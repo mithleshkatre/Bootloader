@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
   18:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   in several modes:
   19:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   (+) Input mode 
   20:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   (+) Analog mode
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 2
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 2
 
 
   21:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   (+) Output mode
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
   75:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         HAL_GPIO_WritePin()/HAL_GPIO_TogglePin().
   76:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****     
   77:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****     (#) To lock pin configuration until next reset use HAL_GPIO_LockPin().
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 3
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 3
 
 
   78:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  132:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** /* Private variables ---------------------------------------------------------*/
  133:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** /* Private function prototypes -----------------------------------------------*/
  134:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** /* Private functions ---------------------------------------------------------*/
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 4
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 4
 
 
  135:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** /* Exported functions --------------------------------------------------------*/
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
   56              	.LVL1:
  168:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   uint32_t iocurrent = 0x00U;
   57              		.loc 1 168 3 view .LVU4
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 5
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 5
 
 
  169:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   uint32_t temp = 0x00U;
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  107 0058 1B04     		lsls	r3, r3, #16
  108 005a 1BB1     		cbz	r3, .L4
  109              	.L3:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 6
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 6
 
 
  110              		.loc 1 173 3 discriminator 3 view .LVU19
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  187:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****       /* In case of Output or Alternate function mode selection */
  188:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****       if(((GPIO_Init->Mode & GPIO_MODE) == MODE_OUTPUT) || \
  189:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****           (GPIO_Init->Mode & GPIO_MODE) == MODE_AF)
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 7
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 7
 
 
  190:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****       {
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  244:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp &= ~(0x0FU << (4U * (position & 0x03U)));
  245:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp |= ((uint32_t)(GPIO_GET_INDEX(GPIOx)) << (4U * (position & 0x03U)));
  151              		.loc 1 245 29 discriminator 1 view .LVU31
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 8
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 8
 
 
  152 009e 0024     		movs	r4, #0
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  200:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp &= ~(GPIO_OTYPER_OT_0 << position) ;
  192              		.loc 1 200 9 is_stmt 1 view .LVU46
  200:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp &= ~(GPIO_OTYPER_OT_0 << position) ;
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 9
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 9
 
 
  193              		.loc 1 200 14 is_stmt 0 view .LVU47
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  222:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         /* Configure Alternate function mapped with the current IO */
  235              		.loc 1 222 9 is_stmt 0 discriminator 1 view .LVU60
  236 00f2 092B     		cmp	r3, #9
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 10
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 10
 
 
  237 00f4 19D0     		beq	.L13
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  224:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp &= ~(0xFU << ((uint32_t)(position & 0x07U) * 4U)) ;
  278              		.loc 1 224 9 is_stmt 1 view .LVU74
  224:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp &= ~(0xFU << ((uint32_t)(position & 0x07U) * 4U)) ;
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 11
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 11
 
 
  279              		.loc 1 224 36 is_stmt 0 view .LVU75
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  320 0158 05E0     		b	.L14
  321              	.L37:
  322 015a 00BF     		.align	2
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 12
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 12
 
 
  323              	.L36:
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  367 018c 1160     		str	r1, [r2]
  256:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** 
  257:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp = EXTI->EMR;
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 13
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 13
 
 
  368              		.loc 1 257 9 is_stmt 1 view .LVU108
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  409              	.L17:
  271:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         }
  272:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         EXTI->RTSR = temp;
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 14
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 14
 
 
  410              		.loc 1 272 9 is_stmt 1 view .LVU128
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  450 01d4 0125     		movs	r5, #1
  451 01d6 A540     		lsls	r5, r5, r4
  452              	.LVL41:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 15
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 15
 
 
  182:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  490 0204 FA68     		ldr	r2, [r7, #12]
  491              	.LVL44:
  213:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****         temp |= ((GPIO_Init->Pull) << (position * 2U));
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 16
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 16
 
 
  492              		.loc 1 213 9 is_stmt 1 view .LVU164
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  529 0226 6100     		lsls	r1, r4, #1
  232:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****       temp |= ((GPIO_Init->Mode & GPIO_MODE) << (position * 2U));
  530              		.loc 1 232 35 view .LVU182
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 17
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 17
 
 
  531 0228 0323     		movs	r3, #3
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  570 0258 0193     		str	r3, [sp, #4]
  241:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** 
  571              		.loc 1 241 9 view .LVU198
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 18
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 18
 
 
  572 025a 019B     		ldr	r3, [sp, #4]
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  611              		.loc 1 245 29 discriminator 7 view .LVU213
  612 0294 03F58063 		add	r3, r3, #1024
  613 0298 9F42     		cmp	r7, r3
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 19
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 19
 
 
  614 029a 10D0     		beq	.L24
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  659 02d0 003C0140 		.word	1073822720
  660 02d4 00380240 		.word	1073887232
  661 02d8 00000240 		.word	1073872896
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 20
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 20
 
 
  662              		.cfi_endproc
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  700              		.loc 1 302 3 is_stmt 0 discriminator 1 view .LVU228
  701 000c 03F58063 		add	r3, r3, #1024
  702 0010 9842     		cmp	r0, r3
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 21
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 21
 
 
  703 0012 1CD0     		beq	.L41
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  742              	.L57:
  743              		.loc 1 317 29 view .LVU239
  744 0052 0626     		movs	r6, #6
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 22
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 22
 
 
  745 0054 00E0     		b	.L44
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  779 0082 4FF00F0C 		mov	ip, #15
  780 0086 0CFA0EFC 		lsl	ip, ip, lr
  781              		.loc 1 337 34 view .LVU253
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 23
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 23
 
 
  782 008a 26EA0C06 		bic	r6, r6, ip
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  819              	.LVL70:
  312:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****     {
  820              		.loc 1 312 5 is_stmt 1 view .LVU269
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 24
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 24
 
 
  312:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****     {
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  860              		.loc 1 317 29 discriminator 7 view .LVU284
  861 00f8 06F58066 		add	r6, r6, #1024
  862 00fc B442     		cmp	r4, r6
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 25
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 25
 
 
  863 00fe 0FD0     		beq	.L51
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  907 013c 20EA0C00 		bic	r0, r0, ip
  908 0140 8860     		str	r0, [r1, #8]
  325:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 26
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 26
 
 
  909              		.loc 1 325 9 is_stmt 1 view .LVU295
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  358:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** @verbatim
  359:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****  ===============================================================================
  360:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****                        ##### IO operation functions #####
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 27
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 27
 
 
  361:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****  ===============================================================================
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  386:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   else
  387:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   {
  388:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****     bitstatus = GPIO_PIN_RESET;
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 28
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 28
 
 
  389:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   }
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  405:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   *          This parameter can be one of the GPIO_PinState enum values:
  406:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   *            @arg GPIO_PIN_RESET: to clear the port pin
  407:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   *            @arg GPIO_PIN_SET: to set the port pin
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 29
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 29
 
 
  408:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   * @retval None
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  1051              	.LVL87:
  413:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   assert_param(IS_GPIO_PIN_ACTION(PinState));
  1052              		.loc 1 413 3 discriminator 3 view .LVU326
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 30
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 30
 
 
  1053 0018 0648     		ldr	r0, .L78
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  1093              		.cfi_startproc
  1094              		@ args = 0, pretend = 0, frame = 0
  1095              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 31
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 31
 
 
  1096              		.loc 1 434 1 is_stmt 0 view .LVU335
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  1136              	.LVL97:
  1137 0024 F0E7     		b	.L82
  1138              	.L86:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 32
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 32
 
 
  1139 0026 00BF     		.align	2
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  1177              	.LVL99:
  1178              	.L89:
  464:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 33
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 33
 
 
  465:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   /* Apply lock key write sequence */
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  1212              		.cfi_remember_state
  1213              		.cfi_def_cfa_offset 12
  1214              		@ sp needed
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 34
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 34
 
 
  1215 0030 30BD     		pop	{r4, r5, pc}
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  502:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c **** /**
  503:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   * @brief  EXTI line detection callbacks.
  504:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   * @param  GPIO_Pin Specifies the pins connected EXTI line
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 35
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 35
 
 
  505:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c ****   * @retval None
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  1291              		.loc 1 500 1 view .LVU382
  1292 000a 08BD     		pop	{r3, pc}
  1293              	.LVL107:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 36
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 36
 
 
  1294              	.L100:
@@ -2128,37 +2128,37 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 1
  1316              		.file 6 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h"
  1317              		.file 7 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h"
  1318              		.file 8 "Core/Inc/stm32f4xx_hal_conf.h"
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s 			page 37
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccOuL446.s 			page 37
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32f4xx_hal_gpio.c
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:20     .rodata.HAL_GPIO_Init.str1.4:00000000 $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:25     .text.HAL_GPIO_Init:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:31     .text.HAL_GPIO_Init:00000000 HAL_GPIO_Init
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:324    .text.HAL_GPIO_Init:0000015c $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:328    .text.HAL_GPIO_Init:00000164 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:658    .text.HAL_GPIO_Init:000002cc $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:666    .text.HAL_GPIO_DeInit:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:672    .text.HAL_GPIO_DeInit:00000000 HAL_GPIO_DeInit
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:933    .text.HAL_GPIO_DeInit:00000160 $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:941    .text.HAL_GPIO_ReadPin:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:947    .text.HAL_GPIO_ReadPin:00000000 HAL_GPIO_ReadPin
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1001   .text.HAL_GPIO_ReadPin:00000024 $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1006   .text.HAL_GPIO_WritePin:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1012   .text.HAL_GPIO_WritePin:00000000 HAL_GPIO_WritePin
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1078   .text.HAL_GPIO_WritePin:00000034 $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1083   .text.HAL_GPIO_TogglePin:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1089   .text.HAL_GPIO_TogglePin:00000000 HAL_GPIO_TogglePin
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1141   .text.HAL_GPIO_TogglePin:00000028 $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1146   .text.HAL_GPIO_LockPin:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1152   .text.HAL_GPIO_LockPin:00000000 HAL_GPIO_LockPin
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1237   .text.HAL_GPIO_LockPin:00000044 $d
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1242   .text.HAL_GPIO_EXTI_Callback:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1248   .text.HAL_GPIO_EXTI_Callback:00000000 HAL_GPIO_EXTI_Callback
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1263   .text.HAL_GPIO_EXTI_IRQHandler:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1269   .text.HAL_GPIO_EXTI_IRQHandler:00000000 HAL_GPIO_EXTI_IRQHandler
-C:\Users\katre\AppData\Local\Temp\ccrlQe1a.s:1306   .text.HAL_GPIO_EXTI_IRQHandler:00000018 $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:20     .rodata.HAL_GPIO_Init.str1.4:00000000 $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:25     .text.HAL_GPIO_Init:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:31     .text.HAL_GPIO_Init:00000000 HAL_GPIO_Init
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:324    .text.HAL_GPIO_Init:0000015c $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:328    .text.HAL_GPIO_Init:00000164 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:658    .text.HAL_GPIO_Init:000002cc $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:666    .text.HAL_GPIO_DeInit:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:672    .text.HAL_GPIO_DeInit:00000000 HAL_GPIO_DeInit
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:933    .text.HAL_GPIO_DeInit:00000160 $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:941    .text.HAL_GPIO_ReadPin:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:947    .text.HAL_GPIO_ReadPin:00000000 HAL_GPIO_ReadPin
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1001   .text.HAL_GPIO_ReadPin:00000024 $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1006   .text.HAL_GPIO_WritePin:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1012   .text.HAL_GPIO_WritePin:00000000 HAL_GPIO_WritePin
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1078   .text.HAL_GPIO_WritePin:00000034 $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1083   .text.HAL_GPIO_TogglePin:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1089   .text.HAL_GPIO_TogglePin:00000000 HAL_GPIO_TogglePin
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1141   .text.HAL_GPIO_TogglePin:00000028 $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1146   .text.HAL_GPIO_LockPin:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1152   .text.HAL_GPIO_LockPin:00000000 HAL_GPIO_LockPin
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1237   .text.HAL_GPIO_LockPin:00000044 $d
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1242   .text.HAL_GPIO_EXTI_Callback:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1248   .text.HAL_GPIO_EXTI_Callback:00000000 HAL_GPIO_EXTI_Callback
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1263   .text.HAL_GPIO_EXTI_IRQHandler:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1269   .text.HAL_GPIO_EXTI_IRQHandler:00000000 HAL_GPIO_EXTI_IRQHandler
+C:\Users\katre\AppData\Local\Temp\ccOuL446.s:1306   .text.HAL_GPIO_EXTI_IRQHandler:00000018 $d
 
 UNDEFINED SYMBOLS
 assert_failed

@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
   28:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       (+) Configure the clock source to be used to drive the System clock
   29:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****           (if the application needs higher frequency/performance)
   30:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       (+) Configure the System clock frequency and Flash settings
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 2
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 2
 
 
   31:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       (+) Configure the AHB and APB busses prescalers
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
   85:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   * @{
   86:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   */
   87:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 3
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 3
 
 
   88:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** /* Private macro -------------------------------------------------------------*/
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  142:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
  143:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****          (#) CSS (Clock security system), once enable using the macro __HAL_RCC_CSS_ENABLE()
  144:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****              and if a HSE clock failure occurs(HSE used directly or through PLL as System
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 4
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 4
 
 
  145:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****              clock source), the System clocks automatically switched to HSI and an interrupt
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  199:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   *            - LSI, LSE and RTC clocks
  200:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   * @retval HAL status
  201:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 5
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 5
 
 
  202:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** __weak HAL_StatusTypeDef HAL_RCC_DeInit(void)
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  223:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   uint32_t tickstart, pll_config;
   60              		.loc 1 223 3 view .LVU4
  224:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 6
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 6
 
 
  225:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   /* Check Null pointer */
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
   99              		.loc 1 239 5 is_stmt 1 view .LVU15
  100              		.loc 1 239 9 is_stmt 0 view .LVU16
  101 002a 804B     		ldr	r3, .L117
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 7
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 7
 
 
  102 002c 9B68     		ldr	r3, [r3, #8]
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  255:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         /* Get Start Tick */
  256:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         tickstart = HAL_GetTick();
  140              		.loc 1 256 9 is_stmt 1 view .LVU29
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 8
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 8
 
 
  141              		.loc 1 256 21 is_stmt 0 view .LVU30
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  240:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     {
  185              		.loc 1 240 68 view .LVU43
  186 009a 644B     		ldr	r3, .L117
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 9
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 9
 
 
  187 009c 5B68     		ldr	r3, [r3, #4]
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  211              		.loc 1 287 5 is_stmt 1 view .LVU53
  212 00be E368     		ldr	r3, [r4, #12]
  213 00c0 012B     		cmp	r3, #1
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 10
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 10
 
 
  214 00c2 41D8     		bhi	.L98
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  242              		.loc 1 312 9 is_stmt 1 view .LVU63
  243 00e6 534B     		ldr	r3, .L117+8
  244 00e8 0122     		movs	r2, #1
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 11
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 11
 
 
  245 00ea 1A60     		str	r2, [r3]
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  250:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
  287              		.loc 1 250 7 discriminator 4 view .LVU77
  288 0120 1A68     		ldr	r2, [r3]
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 12
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 12
 
 
  289 0122 42F48032 		orr	r2, r2, #65536
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  330 0154 4FF49071 		mov	r1, #288
  331 0158 3548     		ldr	r0, .L117+4
  332 015a FFF7FEFF 		bl	assert_failed
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 13
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 13
 
 
  333              	.LVL18:
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  338:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         while(__HAL_RCC_GET_FLAG(RCC_FLAG_HSIRDY) != RESET)
  339:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         {
  340:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****           if((HAL_GetTick() - tickstart ) > HSI_TIMEOUT_VALUE)
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 14
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 14
 
 
  341:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****           {
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  394 01ac 1F4B     		ldr	r3, .L117
  395 01ae 5B6F     		ldr	r3, [r3, #116]
  396              		.loc 1 364 12 view .LVU112
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 15
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 15
 
 
  397 01b0 13F0020F 		tst	r3, #2
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  439 01e6 13F0020F 		tst	r3, #2
  440 01ea CFD0     		beq	.L17
  340:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****           {
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 16
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 16
 
 
  441              		.loc 1 340 11 is_stmt 1 view .LVU126
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  477 0216 5B6F     		ldr	r3, [r3, #116]
  478              		.loc 1 381 12 view .LVU138
  479 0218 13F0020F 		tst	r3, #2
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 17
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 17
 
 
  480 021c 0CD0     		beq	.L28
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  398:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     /* Update LSE configuration in Backup Domain control register    */
  399:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     /* Requires to enable write access to Backup Domain of necessary */
  400:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     if(__HAL_RCC_PWR_IS_CLK_DISABLED())
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 18
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 18
 
 
  518              		.loc 1 400 5 is_stmt 1 view .LVU150
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  416:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         if((HAL_GetTick() - tickstart) > RCC_DBP_TIMEOUT_VALUE)
  417:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         {
  418:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****           return HAL_TIMEOUT;
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 19
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 19
 
 
  419:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         }
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  433:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       {
  434:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         if((HAL_GetTick() - tickstart ) > RCC_LSE_TIMEOUT_VALUE)
  597              		.loc 1 434 9 is_stmt 1 view .LVU179
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 20
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 20
 
 
  598              		.loc 1 434 13 is_stmt 0 view .LVU180
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  641              		.loc 1 414 12 view .LVU192
  642 02e0 13F4807F 		tst	r3, #256
  643 02e4 C8D1     		bne	.L38
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 21
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 21
 
 
  416:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         {
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  445:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       /* Wait till LSE is ready */
  446:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       while(__HAL_RCC_GET_FLAG(RCC_FLAG_LSERDY) != RESET)
  682              		.loc 1 446 7 is_stmt 1 view .LVU203
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 22
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 22
 
 
  683              	.L48:
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  719              		.loc 1 464 30 is_stmt 0 view .LVU217
  720 0340 A369     		ldr	r3, [r4, #24]
  721              		.loc 1 464 6 view .LVU218
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 23
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 23
 
 
  722 0342 002B     		cmp	r3, #0
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  765 0382 082B     		cmp	r3, #8
  766 0384 33D1     		bne	.L112
  767              	.L56:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 24
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 24
 
 
  476:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         assert_param(IS_RCC_PLLQ_VALUE(RCC_OscInitStruct->PLL.PLLQ));
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  458:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     }
  808              		.loc 1 458 7 is_stmt 1 view .LVU245
  809 03b2 494A     		ldr	r2, .L119
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 25
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 25
 
 
  810 03b4 136C     		ldr	r3, [r2, #64]
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  857              	.LVL59:
  858 0404 C3E7     		b	.L57
  859              	.LVL60:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 26
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 26
 
 
  860              	.L114:
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  895              		.loc 1 508 15 is_stmt 0 view .LVU262
  896 043c FFF7FEFF 		bl	HAL_GetTick
  897              	.LVL63:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 27
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 27
 
 
  898              		.loc 1 508 29 view .LVU263
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  554:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****             (READ_BIT(pll_config, RCC_PLLCFGR_PLLM) != (RCC_OscInitStruct->PLL.PLLM) << RCC_PLLCFGR
  555:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****             (READ_BIT(pll_config, RCC_PLLCFGR_PLLN) != (RCC_OscInitStruct->PLL.PLLN) << RCC_PLLCFGR
  556:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****             (READ_BIT(pll_config, RCC_PLLCFGR_PLLP) != (((RCC_OscInitStruct->PLL.PLLP >> 1U) - 1U))
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 28
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 28
 
 
  557:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****             (READ_BIT(pll_config, RCC_PLLCFGR_PLLQ) != (RCC_OscInitStruct->PLL.PLLQ << RCC_PLLCFGR_
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  940              		.loc 1 527 20 view .LVU278
  941 046e 0320     		movs	r0, #3
  942 0470 3BE0     		b	.L3
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 29
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 29
 
 
  943              	.L116:
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  982              		.loc 1 548 81 view .LVU294
  983 04a4 A26A     		ldr	r2, [r4, #40]
  548:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****             (READ_BIT(pll_config, RCC_PLLCFGR_PLLQ) != (RCC_OscInitStruct->PLL.PLLQ << RCC_PLLCFGR_
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 30
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 30
 
 
  984              		.loc 1 548 87 view .LVU295
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1028              		.cfi_offset 6, -8
  1029              		.cfi_offset 14, -4
  244:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 31
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 31
 
 
  1030              		.loc 1 244 16 view .LVU307
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1080              	.LVL77:
  1081              	.L87:
  560:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 32
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 32
 
 
  1082              		.loc 1 560 18 view .LVU313
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  607:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   /* To correctly read data from FLASH memory, the number of wait states (LATENCY)
  608:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     must be correctly programmed according to the frequency of the CPU clock
  609:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     (HCLK) and the supply voltage of the device. */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 33
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 33
 
 
  610:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  664:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       {
  665:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****         return HAL_ERROR;
  666:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 34
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 34
 
 
  667:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     }
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  721:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   SystemCoreClock = HAL_RCC_GetSysClockFreq() >> AHBPrescTable[(RCC->CFGR & RCC_CFGR_HPRE)>> RCC_CF
  722:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
  723:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   /* Configure the source of time base considering new system clocks settings */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 35
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 35
 
 
  724:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   HAL_InitTick (uwTickPrio);
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  778:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** {
  1098              		.loc 1 778 1 is_stmt 1 view -0
  1099              		.cfi_startproc
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 36
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 36
 
 
  1100              		@ args = 0, pretend = 0, frame = 32
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1146              		.loc 1 786 5 discriminator 2 view .LVU327
  1147 0034 B5F5800F 		cmp	r5, #4194304
  1148 0038 02D0     		beq	.L125
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 37
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 37
 
 
  1149              		.loc 1 786 5 discriminator 3 view .LVU328
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1192 006a 03A9     		add	r1, sp, #12
  1193 006c 2748     		ldr	r0, .L133+4
  1194 006e FFF7FEFF 		bl	HAL_GPIO_Init
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 38
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 38
 
 
  1195              	.LVL81:
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1214              	.LCFI9:
  1215              		.cfi_restore_state
  781:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   assert_param(IS_RCC_MCODIV(RCC_MCODiv));
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 39
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 39
 
 
  1216              		.loc 1 781 3 discriminator 1 view .LVU350
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  813:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
  1259              		.loc 1 813 5 view .LVU362
  1260 00be 124E     		ldr	r6, .L133
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 40
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 40
 
 
  1261              	.LVL89:
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1299 00ee 22F07842 		bic	r2, r2, #-134217728
  1300 00f2 45EAC404 		orr	r4, r5, r4, lsl #3
  1301              	.LVL91:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 41
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 41
 
 
  824:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1343 0004 DA64     		str	r2, [r3, #76]
  846:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** }
  1344              		.loc 1 846 1 view .LVU385
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 42
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 42
 
 
  1345 0006 7047     		bx	lr
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  859:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   *
  860:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   * @note   The system frequency computed by this function is not the real
  861:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   *         frequency in the chip. It is calculated based on the predefined
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 43
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 43
 
 
  862:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   *         constant and the selected clock source:
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1413 0010 3FD1     		bne	.L146
  894:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   {
  895:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     case RCC_CFGR_SWS_HSI:  /* HSI used as system clock source */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 44
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 44
 
 
  896:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     {
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1443 0036 184B     		ldr	r3, .L148
  1444 0038 5B68     		ldr	r3, [r3, #4]
  1445              		.loc 1 920 51 view .LVU410
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 45
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 45
 
 
  1446 003a C3F30143 		ubfx	r3, r3, #16, #2
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  902:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       break;
  1491              		.loc 1 902 20 view .LVU422
  1492 008e 0348     		ldr	r0, .L148+4
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 46
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 46
 
 
  1493 0090 00E0     		b	.L141
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1534              		.cfi_offset 4, -16
  1535              		.cfi_offset 5, -12
  1536              		.cfi_offset 6, -8
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 47
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 47
 
 
  1537              		.cfi_offset 14, -4
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  630:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     {
  1578              		.loc 1 630 7 is_stmt 0 view .LVU444
  1579 003e 13F0040F 		tst	r3, #4
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 48
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 48
 
 
  1580 0042 04D0     		beq	.L156
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1621 007c E02B     		cmp	r3, #224
  1622 007e 01D0     		beq	.L158
  640:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     MODIFY_REG(RCC->CFGR, RCC_CFGR_HPRE, RCC_ClkInitStruct->AHBCLKDivider);
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 49
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 49
 
 
  1623              		.loc 1 640 5 discriminator 8 view .LVU458
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1663 00b0 12F0020F 		tst	r2, #2
  1664 00b4 00F0A280 		beq	.L175
  1665              	.L162:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 50
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 50
 
 
  678:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1706 00ec 4FF41771 		mov	r1, #604
  1707              	.LVL109:
  604:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   assert_param(IS_FLASH_LATENCY(FLatency));
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 51
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 51
 
 
  1708              		.loc 1 604 3 discriminator 1 view .LVU487
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  663:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****       {
  1752              		.loc 1 663 9 view .LVU498
  1753 012e 12F0007F 		tst	r2, #33554432
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 52
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 52
 
 
  1754 0132 C1D1     		bne	.L162
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  709:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     MODIFY_REG(RCC->CFGR, RCC_CFGR_PPRE1, RCC_ClkInitStruct->APB1CLKDivider);
  1794              		.loc 1 709 5 discriminator 3 view .LVU513
  1795 016c B3F5C05F 		cmp	r3, #6144
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 53
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 53
 
 
  1796 0170 02D0     		beq	.L168
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  721:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
  1839              		.loc 1 721 3 view .LVU525
  721:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 54
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 54
 
 
  1840              		.loc 1 721 21 is_stmt 0 view .LVU526
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1883              	.L171:
  1884              	.LCFI12:
  1885              		.cfi_def_cfa_offset 0
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 55
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 55
 
 
  1886              		.cfi_restore 4
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  935:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   * @brief  Returns the HCLK frequency
  936:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   * @note   Each time HCLK changes, this function must be called to update the
  937:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   *         right HCLK value. Otherwise, any configuration based on this function will be incorrect
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 56
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 56
 
 
  938:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   *
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  1971              		.loc 1 957 11 is_stmt 0 view .LVU548
  1972 0002 FFF7FEFF 		bl	HAL_RCC_GetHCLKFreq
  1973              	.LVL123:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 57
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 57
 
 
  1974              		.loc 1 957 54 view .LVU549
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  2018              		.loc 1 969 77 view .LVU557
  2019 000a C3F34233 		ubfx	r3, r3, #13, #3
  2020              		.loc 1 969 48 view .LVU558
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 58
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 58
 
 
  2021 000e 034A     		ldr	r2, .L201+4
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  987:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     RCC_OscInitStruct->HSEState = RCC_HSE_BYPASS;
  2060              		.loc 1 987 5 is_stmt 1 view .LVU566
  2061              		.loc 1 987 33 is_stmt 0 view .LVU567
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 59
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 59
 
 
  2062 000e 4FF4A023 		mov	r3, #327680
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
 1013:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     RCC_OscInitStruct->LSEState = RCC_LSE_BYPASS;
  2091              		.loc 1 1013 5 is_stmt 1 view .LVU580
  2092              		.loc 1 1013 33 is_stmt 0 view .LVU581
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 60
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 60
 
 
  2093 0034 0523     		movs	r3, #5
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
 1041:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****     RCC_OscInitStruct->PLL.PLLState = RCC_PLL_OFF;
 1042:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   }
 1043:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   RCC_OscInitStruct->PLL.PLLSource = (uint32_t)(RCC->PLLCFGR & RCC_PLLCFGR_PLLSRC);
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 61
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 61
 
 
  2120              		.loc 1 1043 3 is_stmt 1 view .LVU592
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  989:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c ****   {
  2167              		.loc 1 989 10 view .LVU617
  2168 008a 13F4803F 		tst	r3, #65536
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 62
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 62
 
 
  2169 008e 03D0     		beq	.L206
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  2208              		.loc 1 1031 33 is_stmt 0 view .LVU632
  2209 00ba 0023     		movs	r3, #0
  2210 00bc 4361     		str	r3, [r0, #20]
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 63
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 63
 
 
  2211 00be C2E7     		b	.L213
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  2249 0008 02F00302 		and	r2, r2, #3
  2250              		.loc 1 1064 35 view .LVU641
  2251 000c 4260     		str	r2, [r0, #4]
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 64
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 64
 
 
 1065:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c **** 
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  2294              		.weak	HAL_RCC_CSSCallback
  2295              		.syntax unified
  2296              		.thumb
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 65
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 65
 
 
  2297              		.thumb_func
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  2324 0000 08B5     		push	{r3, lr}
  2325              	.LCFI16:
  2326              		.cfi_def_cfa_offset 8
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 66
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 66
 
 
  2327              		.cfi_offset 3, -8
@@ -3949,55 +3949,55 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 1
  2366              		.file 10 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h"
  2367              		.file 11 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
  2368              		.file 12 "Core/Inc/stm32f4xx_hal_conf.h"
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 67
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 67
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32f4xx_hal_rcc.c
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:20     .text.HAL_RCC_DeInit:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:26     .text.HAL_RCC_DeInit:00000000 HAL_RCC_DeInit
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:42     .rodata.HAL_RCC_OscConfig.str1.4:00000000 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:47     .text.HAL_RCC_OscConfig:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:53     .text.HAL_RCC_OscConfig:00000000 HAL_RCC_OscConfig
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:496    .text.HAL_RCC_OscConfig:0000022c $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:503    .text.HAL_RCC_OscConfig:00000238 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1040   .text.HAL_RCC_OscConfig:000004d8 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1046   .text.HAL_RCC_OscConfig:000004e8 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1089   .text.HAL_RCC_MCOConfig:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1095   .text.HAL_RCC_MCOConfig:00000000 HAL_RCC_MCOConfig
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1318   .text.HAL_RCC_MCOConfig:00000108 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1326   .text.HAL_RCC_EnableCSS:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1332   .text.HAL_RCC_EnableCSS:00000000 HAL_RCC_EnableCSS
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1349   .text.HAL_RCC_EnableCSS:00000008 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1354   .text.HAL_RCC_DisableCSS:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1360   .text.HAL_RCC_DisableCSS:00000000 HAL_RCC_DisableCSS
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1377   .text.HAL_RCC_DisableCSS:00000008 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1383   .text.HAL_RCC_GetSysClockFreq:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1389   .text.HAL_RCC_GetSysClockFreq:00000000 HAL_RCC_GetSysClockFreq
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1505   .text.HAL_RCC_GetSysClockFreq:00000098 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1512   .text.HAL_RCC_ClockConfig:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1518   .text.HAL_RCC_ClockConfig:00000000 HAL_RCC_ClockConfig
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1917   .text.HAL_RCC_ClockConfig:00000204 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1927   .text.HAL_RCC_GetHCLKFreq:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1933   .text.HAL_RCC_GetHCLKFreq:00000000 HAL_RCC_GetHCLKFreq
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1948   .text.HAL_RCC_GetHCLKFreq:00000008 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1953   .text.HAL_RCC_GetPCLK1Freq:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1959   .text.HAL_RCC_GetPCLK1Freq:00000000 HAL_RCC_GetPCLK1Freq
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1988   .text.HAL_RCC_GetPCLK1Freq:00000018 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:1994   .text.HAL_RCC_GetPCLK2Freq:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2000   .text.HAL_RCC_GetPCLK2Freq:00000000 HAL_RCC_GetPCLK2Freq
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2029   .text.HAL_RCC_GetPCLK2Freq:00000018 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2035   .text.HAL_RCC_GetOscConfig:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2041   .text.HAL_RCC_GetOscConfig:00000000 HAL_RCC_GetOscConfig
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2221   .text.HAL_RCC_GetOscConfig:000000c8 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2226   .text.HAL_RCC_GetClockConfig:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2232   .text.HAL_RCC_GetClockConfig:00000000 HAL_RCC_GetClockConfig
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2287   .text.HAL_RCC_GetClockConfig:00000034 $d
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2293   .text.HAL_RCC_CSSCallback:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2299   .text.HAL_RCC_CSSCallback:00000000 HAL_RCC_CSSCallback
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2312   .text.HAL_RCC_NMI_IRQHandler:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2318   .text.HAL_RCC_NMI_IRQHandler:00000000 HAL_RCC_NMI_IRQHandler
-C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s:2352   .text.HAL_RCC_NMI_IRQHandler:0000001c $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:20     .text.HAL_RCC_DeInit:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:26     .text.HAL_RCC_DeInit:00000000 HAL_RCC_DeInit
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:42     .rodata.HAL_RCC_OscConfig.str1.4:00000000 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:47     .text.HAL_RCC_OscConfig:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:53     .text.HAL_RCC_OscConfig:00000000 HAL_RCC_OscConfig
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:496    .text.HAL_RCC_OscConfig:0000022c $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:503    .text.HAL_RCC_OscConfig:00000238 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1040   .text.HAL_RCC_OscConfig:000004d8 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1046   .text.HAL_RCC_OscConfig:000004e8 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1089   .text.HAL_RCC_MCOConfig:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1095   .text.HAL_RCC_MCOConfig:00000000 HAL_RCC_MCOConfig
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1318   .text.HAL_RCC_MCOConfig:00000108 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1326   .text.HAL_RCC_EnableCSS:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1332   .text.HAL_RCC_EnableCSS:00000000 HAL_RCC_EnableCSS
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1349   .text.HAL_RCC_EnableCSS:00000008 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1354   .text.HAL_RCC_DisableCSS:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1360   .text.HAL_RCC_DisableCSS:00000000 HAL_RCC_DisableCSS
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1377   .text.HAL_RCC_DisableCSS:00000008 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1383   .text.HAL_RCC_GetSysClockFreq:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1389   .text.HAL_RCC_GetSysClockFreq:00000000 HAL_RCC_GetSysClockFreq
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1505   .text.HAL_RCC_GetSysClockFreq:00000098 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1512   .text.HAL_RCC_ClockConfig:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1518   .text.HAL_RCC_ClockConfig:00000000 HAL_RCC_ClockConfig
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1917   .text.HAL_RCC_ClockConfig:00000204 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1927   .text.HAL_RCC_GetHCLKFreq:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1933   .text.HAL_RCC_GetHCLKFreq:00000000 HAL_RCC_GetHCLKFreq
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1948   .text.HAL_RCC_GetHCLKFreq:00000008 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1953   .text.HAL_RCC_GetPCLK1Freq:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1959   .text.HAL_RCC_GetPCLK1Freq:00000000 HAL_RCC_GetPCLK1Freq
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1988   .text.HAL_RCC_GetPCLK1Freq:00000018 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:1994   .text.HAL_RCC_GetPCLK2Freq:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2000   .text.HAL_RCC_GetPCLK2Freq:00000000 HAL_RCC_GetPCLK2Freq
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2029   .text.HAL_RCC_GetPCLK2Freq:00000018 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2035   .text.HAL_RCC_GetOscConfig:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2041   .text.HAL_RCC_GetOscConfig:00000000 HAL_RCC_GetOscConfig
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2221   .text.HAL_RCC_GetOscConfig:000000c8 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2226   .text.HAL_RCC_GetClockConfig:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2232   .text.HAL_RCC_GetClockConfig:00000000 HAL_RCC_GetClockConfig
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2287   .text.HAL_RCC_GetClockConfig:00000034 $d
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2293   .text.HAL_RCC_CSSCallback:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2299   .text.HAL_RCC_CSSCallback:00000000 HAL_RCC_CSSCallback
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2312   .text.HAL_RCC_NMI_IRQHandler:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2318   .text.HAL_RCC_NMI_IRQHandler:00000000 HAL_RCC_NMI_IRQHandler
+C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s:2352   .text.HAL_RCC_NMI_IRQHandler:0000001c $d
 
 UNDEFINED SYMBOLS
 HAL_GetTick
@@ -4009,6 +4009,6 @@ AHBPrescTable
 SystemCoreClock
 uwTickPrio
 APBPrescTable
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccEhKCqB.s 			page 68
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccepH9EZ.s 			page 68
 
 

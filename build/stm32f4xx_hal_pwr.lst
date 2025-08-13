@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
   28:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** /** @addtogroup STM32F4xx_HAL_Driver
   29:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   * @{
   30:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 2
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 2
 
 
   31:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
   85:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   * @{
   86:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   */
   87:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 3
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 3
 
 
   88:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** /**
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
   61              		.loc 1 111 1 is_stmt 1 view -0
   62              		.cfi_startproc
   63              		@ args = 0, pretend = 0, frame = 8
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 4
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 4
 
 
   64              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  126:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   *         in backup domain protection disabling/enabling after programming the
  127:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   *         DBP bit" section.
  128:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   * @retval None
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 5
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 5
 
 
  129:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   */
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  149              		.global	HAL_PWR_ConfigPVD
  150              		.syntax unified
  151              		.thumb
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 6
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 6
 
 
  152              		.thumb_func
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  187:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****           (++) PWR_SLEEPENTRY_WFE: enter SLEEP mode with WFE instruction
  188:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****       
  189:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****       -@@- The Regulator parameter is not used for the STM32F4 family 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 7
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 7
 
 
  190:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****               and is kept as parameter just to maintain compatibility with the 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  244:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****        
  245:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****         (++) To wake up from the Stop mode with an RTC alarm event, it is necessary to 
  246:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****               configure the RTC to generate the RTC alarm using the HAL_RTC_SetAlarm_IT() function.
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 8
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 8
 
 
  247:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  186              		.loc 1 271 3 discriminator 6 view .LVU30
  187 001c C02B     		cmp	r3, #192
  188 001e 01D0     		beq	.L13
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 9
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 9
 
 
  189              		.loc 1 271 3 discriminator 7 view .LVU31
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  281:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   __HAL_PWR_PVD_EXTI_DISABLE_FALLING_EDGE(); 
  234              		.loc 1 281 3 view .LVU41
  235 006c DA68     		ldr	r2, [r3, #12]
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 10
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 10
 
 
  236 006e 22F48032 		bic	r2, r2, #65536
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  273              	.L17:
  299:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   }
  300:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 11
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 11
 
 
  301:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   if((sConfigPVD->Mode & PVD_FALLING_EDGE) == PVD_FALLING_EDGE)
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  322              	HAL_PWR_EnablePVD:
  323              	.LFB134:
  306:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 12
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 12
 
 
  307:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** /**
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  363 0006 7047     		bx	lr
  364              	.L29:
  365              		.align	2
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 13
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 13
 
 
  366              	.L28:
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  405              		.loc 1 340 3 is_stmt 0 view .LVU75
  406 0014 5C60     		str	r4, [r3, #4]
  341:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 14
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 14
 
 
  407              		.loc 1 341 1 view .LVU76
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  355:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   assert_param(IS_PWR_WAKEUP_PIN(WakeUpPinx));  
  448              		.loc 1 355 3 is_stmt 1 view .LVU81
  449 0004 B0F5807F 		cmp	r0, #256
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 15
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 15
 
 
  450 0008 01D0     		beq	.L37
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  367:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   *       systick interrupt when used as time base for Timeout 
  368:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   *                
  369:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   * @param Regulator Specifies the regulator state in SLEEP mode.
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 16
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 16
 
 
  370:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   *            This parameter can be one of the following values:
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  393:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****     /* Request Wait For Interrupt */
  394:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****     __WFI();
  395:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 17
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 17
 
 
  396:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   else
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  565 003e 30BF     		wfi
  566              	@ 0 "" 2
  567              		.thumb
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 18
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 18
 
 
  568              		.syntax unified
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  426:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   /* Check the parameters */
  427:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   assert_param(IS_PWR_REGULATOR(Regulator));
  602              		.loc 1 427 3 is_stmt 1 view .LVU106
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 19
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 19
 
 
  603 0006 0128     		cmp	r0, #1
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  637              		.loc 1 447 5 view .LVU114
  638              	@ 447 "Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c" 1
  639 0030 20BF     		wfe
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 20
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 20
 
 
  640              	@ 0 "" 2
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  685              		.cfi_endproc
  686              	.LFE139:
  688              		.section	.text.HAL_PWR_EnterSTANDBYMode,"ax",%progbits
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 21
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 21
 
 
  689              		.align	1
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  718              		.thumb
  719              		.syntax unified
  720 0016 7047     		bx	lr
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 22
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 22
 
 
  721              	.L66:
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  749              		.align	1
  750              		.global	HAL_PWR_PVD_IRQHandler
  751              		.syntax unified
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 23
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 23
 
 
  752              		.thumb
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  801              	.LFB143:
  507:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** 
  508:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** /**
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 24
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 24
 
 
  509:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c ****   * @brief Indicates Sleep-On-Exit when returning from Handler mode to Thread mode. 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  835              		.loc 1 531 3 view .LVU141
  836 0000 024A     		ldr	r2, .L78
  837 0002 1369     		ldr	r3, [r2, #16]
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 25
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 25
 
 
  838 0004 23F00203 		bic	r3, r3, #2
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  882              		.thumb_func
  884              	HAL_PWR_DisableSEVOnPend:
  885              	.LFB146:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 26
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 26
 
 
  545:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c **** 
@@ -1540,62 +1540,62 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 1
  911              		.file 6 "Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h"
  912              		.file 7 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h"
  913              		.file 8 "Core/Inc/stm32f4xx_hal_conf.h"
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s 			page 27
+ARM GAS  C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s 			page 27
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32f4xx_hal_pwr.c
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:20     .text.HAL_PWR_DeInit:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:26     .text.HAL_PWR_DeInit:00000000 HAL_PWR_DeInit
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:48     .text.HAL_PWR_DeInit:00000014 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:53     .text.HAL_PWR_EnableBkUpAccess:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:59     .text.HAL_PWR_EnableBkUpAccess:00000000 HAL_PWR_EnableBkUpAccess
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:92     .text.HAL_PWR_EnableBkUpAccess:00000014 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:98     .text.HAL_PWR_DisableBkUpAccess:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:104    .text.HAL_PWR_DisableBkUpAccess:00000000 HAL_PWR_DisableBkUpAccess
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:137    .text.HAL_PWR_DisableBkUpAccess:00000014 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:143    .rodata.HAL_PWR_ConfigPVD.str1.4:00000000 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:148    .text.HAL_PWR_ConfigPVD:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:154    .text.HAL_PWR_ConfigPVD:00000000 HAL_PWR_ConfigPVD
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:308    .text.HAL_PWR_ConfigPVD:000000d8 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:316    .text.HAL_PWR_EnablePVD:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:322    .text.HAL_PWR_EnablePVD:00000000 HAL_PWR_EnablePVD
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:339    .text.HAL_PWR_EnablePVD:00000008 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:344    .text.HAL_PWR_DisablePVD:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:350    .text.HAL_PWR_DisablePVD:00000000 HAL_PWR_DisablePVD
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:367    .text.HAL_PWR_DisablePVD:00000008 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:372    .text.HAL_PWR_EnableWakeUpPin:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:378    .text.HAL_PWR_EnableWakeUpPin:00000000 HAL_PWR_EnableWakeUpPin
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:422    .text.HAL_PWR_EnableWakeUpPin:00000024 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:428    .text.HAL_PWR_DisableWakeUpPin:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:434    .text.HAL_PWR_DisableWakeUpPin:00000000 HAL_PWR_DisableWakeUpPin
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:478    .text.HAL_PWR_DisableWakeUpPin:00000028 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:484    .text.HAL_PWR_EnterSLEEPMode:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:490    .text.HAL_PWR_EnterSLEEPMode:00000000 HAL_PWR_EnterSLEEPMode
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:573    .text.HAL_PWR_EnterSLEEPMode:00000044 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:579    .text.HAL_PWR_EnterSTOPMode:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:585    .text.HAL_PWR_EnterSTOPMode:00000000 HAL_PWR_EnterSTOPMode
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:682    .text.HAL_PWR_EnterSTOPMode:0000005c $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:689    .text.HAL_PWR_EnterSTANDBYMode:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:695    .text.HAL_PWR_EnterSTANDBYMode:00000000 HAL_PWR_EnterSTANDBYMode
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:724    .text.HAL_PWR_EnterSTANDBYMode:00000018 $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:730    .text.HAL_PWR_PVDCallback:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:736    .text.HAL_PWR_PVDCallback:00000000 HAL_PWR_PVDCallback
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:749    .text.HAL_PWR_PVD_IRQHandler:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:755    .text.HAL_PWR_PVD_IRQHandler:00000000 HAL_PWR_PVD_IRQHandler
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:789    .text.HAL_PWR_PVD_IRQHandler:0000001c $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:794    .text.HAL_PWR_EnableSleepOnExit:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:800    .text.HAL_PWR_EnableSleepOnExit:00000000 HAL_PWR_EnableSleepOnExit
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:817    .text.HAL_PWR_EnableSleepOnExit:0000000c $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:822    .text.HAL_PWR_DisableSleepOnExit:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:828    .text.HAL_PWR_DisableSleepOnExit:00000000 HAL_PWR_DisableSleepOnExit
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:845    .text.HAL_PWR_DisableSleepOnExit:0000000c $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:850    .text.HAL_PWR_EnableSEVOnPend:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:856    .text.HAL_PWR_EnableSEVOnPend:00000000 HAL_PWR_EnableSEVOnPend
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:873    .text.HAL_PWR_EnableSEVOnPend:0000000c $d
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:878    .text.HAL_PWR_DisableSEVOnPend:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:884    .text.HAL_PWR_DisableSEVOnPend:00000000 HAL_PWR_DisableSEVOnPend
-C:\Users\katre\AppData\Local\Temp\ccwj6FFf.s:901    .text.HAL_PWR_DisableSEVOnPend:0000000c $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:20     .text.HAL_PWR_DeInit:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:26     .text.HAL_PWR_DeInit:00000000 HAL_PWR_DeInit
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:48     .text.HAL_PWR_DeInit:00000014 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:53     .text.HAL_PWR_EnableBkUpAccess:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:59     .text.HAL_PWR_EnableBkUpAccess:00000000 HAL_PWR_EnableBkUpAccess
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:92     .text.HAL_PWR_EnableBkUpAccess:00000014 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:98     .text.HAL_PWR_DisableBkUpAccess:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:104    .text.HAL_PWR_DisableBkUpAccess:00000000 HAL_PWR_DisableBkUpAccess
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:137    .text.HAL_PWR_DisableBkUpAccess:00000014 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:143    .rodata.HAL_PWR_ConfigPVD.str1.4:00000000 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:148    .text.HAL_PWR_ConfigPVD:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:154    .text.HAL_PWR_ConfigPVD:00000000 HAL_PWR_ConfigPVD
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:308    .text.HAL_PWR_ConfigPVD:000000d8 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:316    .text.HAL_PWR_EnablePVD:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:322    .text.HAL_PWR_EnablePVD:00000000 HAL_PWR_EnablePVD
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:339    .text.HAL_PWR_EnablePVD:00000008 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:344    .text.HAL_PWR_DisablePVD:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:350    .text.HAL_PWR_DisablePVD:00000000 HAL_PWR_DisablePVD
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:367    .text.HAL_PWR_DisablePVD:00000008 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:372    .text.HAL_PWR_EnableWakeUpPin:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:378    .text.HAL_PWR_EnableWakeUpPin:00000000 HAL_PWR_EnableWakeUpPin
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:422    .text.HAL_PWR_EnableWakeUpPin:00000024 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:428    .text.HAL_PWR_DisableWakeUpPin:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:434    .text.HAL_PWR_DisableWakeUpPin:00000000 HAL_PWR_DisableWakeUpPin
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:478    .text.HAL_PWR_DisableWakeUpPin:00000028 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:484    .text.HAL_PWR_EnterSLEEPMode:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:490    .text.HAL_PWR_EnterSLEEPMode:00000000 HAL_PWR_EnterSLEEPMode
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:573    .text.HAL_PWR_EnterSLEEPMode:00000044 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:579    .text.HAL_PWR_EnterSTOPMode:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:585    .text.HAL_PWR_EnterSTOPMode:00000000 HAL_PWR_EnterSTOPMode
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:682    .text.HAL_PWR_EnterSTOPMode:0000005c $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:689    .text.HAL_PWR_EnterSTANDBYMode:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:695    .text.HAL_PWR_EnterSTANDBYMode:00000000 HAL_PWR_EnterSTANDBYMode
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:724    .text.HAL_PWR_EnterSTANDBYMode:00000018 $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:730    .text.HAL_PWR_PVDCallback:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:736    .text.HAL_PWR_PVDCallback:00000000 HAL_PWR_PVDCallback
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:749    .text.HAL_PWR_PVD_IRQHandler:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:755    .text.HAL_PWR_PVD_IRQHandler:00000000 HAL_PWR_PVD_IRQHandler
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:789    .text.HAL_PWR_PVD_IRQHandler:0000001c $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:794    .text.HAL_PWR_EnableSleepOnExit:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:800    .text.HAL_PWR_EnableSleepOnExit:00000000 HAL_PWR_EnableSleepOnExit
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:817    .text.HAL_PWR_EnableSleepOnExit:0000000c $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:822    .text.HAL_PWR_DisableSleepOnExit:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:828    .text.HAL_PWR_DisableSleepOnExit:00000000 HAL_PWR_DisableSleepOnExit
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:845    .text.HAL_PWR_DisableSleepOnExit:0000000c $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:850    .text.HAL_PWR_EnableSEVOnPend:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:856    .text.HAL_PWR_EnableSEVOnPend:00000000 HAL_PWR_EnableSEVOnPend
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:873    .text.HAL_PWR_EnableSEVOnPend:0000000c $d
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:878    .text.HAL_PWR_DisableSEVOnPend:00000000 $t
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:884    .text.HAL_PWR_DisableSEVOnPend:00000000 HAL_PWR_DisableSEVOnPend
+C:\Users\katre\AppData\Local\Temp\ccs2cjVm.s:901    .text.HAL_PWR_DisableSEVOnPend:0000000c $d
 
 UNDEFINED SYMBOLS
 assert_failed

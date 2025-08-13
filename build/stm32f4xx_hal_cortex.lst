@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
   17:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****     *** How to configure Interrupts using CORTEX HAL driver ***
   18:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****     ===========================================================
   19:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****     [..]     
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 2
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 2
 
 
   20:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****     This section provides functions allowing to configure the NVIC interrupts (IRQ).
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
   74:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * This software component is licensed by ST under BSD 3-Clause license,
   75:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * the "License"; You may not use this file except in compliance with the
   76:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * License. You may obtain a copy of the License at:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 3
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 3
 
 
   77:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   *                        opensource.org/licenses/BSD-3-Clause
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  131:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   *         @arg NVIC_PRIORITYGROUP_1: 1 bits for preemption priority
  132:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   *                                    3 bits for subpriority
  133:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   *         @arg NVIC_PRIORITYGROUP_2: 2 bits for preemption priority
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 4
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 4
 
 
  134:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   *                                    2 bits for subpriority
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
   18:Drivers/CMSIS/Include/core_cm4.h ****  * Unless required by applicable law or agreed to in writing, software
   19:Drivers/CMSIS/Include/core_cm4.h ****  * distributed under the License is distributed on an AS IS BASIS, WITHOUT
   20:Drivers/CMSIS/Include/core_cm4.h ****  * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 5
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 5
 
 
   21:Drivers/CMSIS/Include/core_cm4.h ****  * See the License for the specific language governing permissions and
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
   75:Drivers/CMSIS/Include/core_cm4.h **** */
   76:Drivers/CMSIS/Include/core_cm4.h **** #if defined ( __CC_ARM )
   77:Drivers/CMSIS/Include/core_cm4.h ****   #if defined __TARGET_FPU_VFP
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 6
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 6
 
 
   78:Drivers/CMSIS/Include/core_cm4.h ****     #if defined (__FPU_PRESENT) && (__FPU_PRESENT == 1U)
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  132:Drivers/CMSIS/Include/core_cm4.h ****   #else
  133:Drivers/CMSIS/Include/core_cm4.h ****     #define __FPU_USED         0U
  134:Drivers/CMSIS/Include/core_cm4.h ****   #endif
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 7
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 7
 
 
  135:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  189:Drivers/CMSIS/Include/core_cm4.h ****     #warning "__FPU_PRESENT not defined in device header file; using default!"
  190:Drivers/CMSIS/Include/core_cm4.h ****   #endif
  191:Drivers/CMSIS/Include/core_cm4.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 8
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 8
 
 
  192:Drivers/CMSIS/Include/core_cm4.h ****   #ifndef __MPU_PRESENT
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  246:Drivers/CMSIS/Include/core_cm4.h ****   \brief Type definitions and defines for Cortex-M processor based devices.
  247:Drivers/CMSIS/Include/core_cm4.h **** */
  248:Drivers/CMSIS/Include/core_cm4.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 9
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 9
 
 
  249:Drivers/CMSIS/Include/core_cm4.h **** /**
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  303:Drivers/CMSIS/Include/core_cm4.h ****     uint32_t _reserved0:23;              /*!< bit:  9..31  Reserved */
  304:Drivers/CMSIS/Include/core_cm4.h ****   } b;                                   /*!< Structure used for bit  access */
  305:Drivers/CMSIS/Include/core_cm4.h ****   uint32_t w;                            /*!< Type      used for word access */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 10
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 10
 
 
  306:Drivers/CMSIS/Include/core_cm4.h **** } IPSR_Type;
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  360:Drivers/CMSIS/Include/core_cm4.h **** 
  361:Drivers/CMSIS/Include/core_cm4.h **** #define xPSR_ICI_IT_1_Pos                  10U                                            /*!< xPSR
  362:Drivers/CMSIS/Include/core_cm4.h **** #define xPSR_ICI_IT_1_Msk                  (0x3FUL << xPSR_ICI_IT_1_Pos)                  /*!< xPSR
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 11
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 11
 
 
  363:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  417:Drivers/CMSIS/Include/core_cm4.h ****         uint32_t RESERVED4[56U];
  418:Drivers/CMSIS/Include/core_cm4.h ****   __IOM uint8_t  IP[240U];               /*!< Offset: 0x300 (R/W)  Interrupt Priority Register (8Bi
  419:Drivers/CMSIS/Include/core_cm4.h ****         uint32_t RESERVED5[644U];
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 12
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 12
 
 
  420:Drivers/CMSIS/Include/core_cm4.h ****   __OM  uint32_t STIR;                   /*!< Offset: 0xE00 ( /W)  Software Trigger Interrupt Regis
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  474:Drivers/CMSIS/Include/core_cm4.h **** 
  475:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_CPUID_PARTNO_Pos                4U                                            /*!< SCB 
  476:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_CPUID_PARTNO_Msk               (0xFFFUL << SCB_CPUID_PARTNO_Pos)              /*!< SCB 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 13
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 13
 
 
  477:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  531:Drivers/CMSIS/Include/core_cm4.h **** 
  532:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_AIRCR_VECTCLRACTIVE_Pos         1U                                            /*!< SCB 
  533:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_AIRCR_VECTCLRACTIVE_Msk        (1UL << SCB_AIRCR_VECTCLRACTIVE_Pos)           /*!< SCB 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 14
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 14
 
 
  534:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  588:Drivers/CMSIS/Include/core_cm4.h **** 
  589:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_SHCSR_SYSTICKACT_Pos           11U                                            /*!< SCB 
  590:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_SHCSR_SYSTICKACT_Msk           (1UL << SCB_SHCSR_SYSTICKACT_Pos)              /*!< SCB 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 15
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 15
 
 
  591:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  645:Drivers/CMSIS/Include/core_cm4.h **** 
  646:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_CFSR_STKERR_Pos               (SCB_CFSR_BUSFAULTSR_Pos + 4U)                  /*!< SCB 
  647:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_CFSR_STKERR_Msk               (1UL << SCB_CFSR_STKERR_Pos)                    /*!< SCB 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 16
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 16
 
 
  648:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  702:Drivers/CMSIS/Include/core_cm4.h **** 
  703:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_DFSR_HALTED_Pos                 0U                                            /*!< SCB 
  704:Drivers/CMSIS/Include/core_cm4.h **** #define SCB_DFSR_HALTED_Msk                (1UL /*<< SCB_DFSR_HALTED_Pos*/)               /*!< SCB 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 17
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 17
 
 
  705:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  759:Drivers/CMSIS/Include/core_cm4.h **** typedef struct
  760:Drivers/CMSIS/Include/core_cm4.h **** {
  761:Drivers/CMSIS/Include/core_cm4.h ****   __IOM uint32_t CTRL;                   /*!< Offset: 0x000 (R/W)  SysTick Control and Status Regis
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 18
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 18
 
 
  762:Drivers/CMSIS/Include/core_cm4.h ****   __IOM uint32_t LOAD;                   /*!< Offset: 0x004 (R/W)  SysTick Reload Value Register */
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  816:Drivers/CMSIS/Include/core_cm4.h ****     __OM  uint16_t   u16;                /*!< Offset: 0x000 ( /W)  ITM Stimulus Port 16-bit */
  817:Drivers/CMSIS/Include/core_cm4.h ****     __OM  uint32_t   u32;                /*!< Offset: 0x000 ( /W)  ITM Stimulus Port 32-bit */
  818:Drivers/CMSIS/Include/core_cm4.h ****   }  PORT [32U];                         /*!< Offset: 0x000 ( /W)  ITM Stimulus Port Registers */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 19
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 19
 
 
  819:Drivers/CMSIS/Include/core_cm4.h ****         uint32_t RESERVED0[864U];
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  873:Drivers/CMSIS/Include/core_cm4.h **** #define ITM_TCR_TSENA_Pos                   1U                                            /*!< ITM 
  874:Drivers/CMSIS/Include/core_cm4.h **** #define ITM_TCR_TSENA_Msk                  (1UL << ITM_TCR_TSENA_Pos)                     /*!< ITM 
  875:Drivers/CMSIS/Include/core_cm4.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 20
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 20
 
 
  876:Drivers/CMSIS/Include/core_cm4.h **** #define ITM_TCR_ITMENA_Pos                  0U                                            /*!< ITM 
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  930:Drivers/CMSIS/Include/core_cm4.h ****   __IOM uint32_t FUNCTION1;              /*!< Offset: 0x038 (R/W)  Function Register 1 */
  931:Drivers/CMSIS/Include/core_cm4.h ****         uint32_t RESERVED1[1U];
  932:Drivers/CMSIS/Include/core_cm4.h ****   __IOM uint32_t COMP2;                  /*!< Offset: 0x040 (R/W)  Comparator Register 2 */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 21
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 21
 
 
  933:Drivers/CMSIS/Include/core_cm4.h ****   __IOM uint32_t MASK2;                  /*!< Offset: 0x044 (R/W)  Mask Register 2 */
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  987:Drivers/CMSIS/Include/core_cm4.h **** #define DWT_CTRL_POSTINIT_Pos               5U                                         /*!< DWT CTR
  988:Drivers/CMSIS/Include/core_cm4.h **** #define DWT_CTRL_POSTINIT_Msk              (0xFUL << DWT_CTRL_POSTINIT_Pos)            /*!< DWT CTR
  989:Drivers/CMSIS/Include/core_cm4.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 22
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 22
 
 
  990:Drivers/CMSIS/Include/core_cm4.h **** #define DWT_CTRL_POSTPRESET_Pos             1U                                         /*!< DWT CTR
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1044:Drivers/CMSIS/Include/core_cm4.h **** 
 1045:Drivers/CMSIS/Include/core_cm4.h **** #define DWT_FUNCTION_FUNCTION_Pos           0U                                         /*!< DWT FUN
 1046:Drivers/CMSIS/Include/core_cm4.h **** #define DWT_FUNCTION_FUNCTION_Msk          (0xFUL /*<< DWT_FUNCTION_FUNCTION_Pos*/)    /*!< DWT FUN
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 23
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 23
 
 
 1047:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1101:Drivers/CMSIS/Include/core_cm4.h **** #define TPI_FFSR_TCPresent_Pos              2U                                         /*!< TPI FFS
 1102:Drivers/CMSIS/Include/core_cm4.h **** #define TPI_FFSR_TCPresent_Msk             (0x1UL << TPI_FFSR_TCPresent_Pos)           /*!< TPI FFS
 1103:Drivers/CMSIS/Include/core_cm4.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 24
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 24
 
 
 1104:Drivers/CMSIS/Include/core_cm4.h **** #define TPI_FFSR_FtStopped_Pos              1U                                         /*!< TPI FFS
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1158:Drivers/CMSIS/Include/core_cm4.h **** #define TPI_FIFO1_ETM_ATVALID_Msk          (0x3UL << TPI_FIFO1_ETM_ATVALID_Pos)        /*!< TPI FIF
 1159:Drivers/CMSIS/Include/core_cm4.h **** 
 1160:Drivers/CMSIS/Include/core_cm4.h **** #define TPI_FIFO1_ETM_bytecount_Pos        24U                                         /*!< TPI FIF
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 25
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 25
 
 
 1161:Drivers/CMSIS/Include/core_cm4.h **** #define TPI_FIFO1_ETM_bytecount_Msk        (0x3UL << TPI_FIFO1_ETM_bytecount_Pos)      /*!< TPI FIF
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1215:Drivers/CMSIS/Include/core_cm4.h ****   \defgroup CMSIS_MPU     Memory Protection Unit (MPU)
 1216:Drivers/CMSIS/Include/core_cm4.h ****   \brief    Type definitions for the Memory Protection Unit (MPU)
 1217:Drivers/CMSIS/Include/core_cm4.h ****   @{
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 26
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 26
 
 
 1218:Drivers/CMSIS/Include/core_cm4.h ****  */
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1272:Drivers/CMSIS/Include/core_cm4.h **** #define MPU_RBAR_REGION_Msk                (0xFUL /*<< MPU_RBAR_REGION_Pos*/)             /*!< MPU 
 1273:Drivers/CMSIS/Include/core_cm4.h **** 
 1274:Drivers/CMSIS/Include/core_cm4.h **** /* MPU Region Attribute and Size Register Definitions */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 27
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 27
 
 
 1275:Drivers/CMSIS/Include/core_cm4.h **** #define MPU_RASR_ATTRS_Pos                 16U                                            /*!< MPU 
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1329:Drivers/CMSIS/Include/core_cm4.h **** /* Floating-Point Context Control Register Definitions */
 1330:Drivers/CMSIS/Include/core_cm4.h **** #define FPU_FPCCR_ASPEN_Pos                31U                                            /*!< FPCC
 1331:Drivers/CMSIS/Include/core_cm4.h **** #define FPU_FPCCR_ASPEN_Msk                (1UL << FPU_FPCCR_ASPEN_Pos)                   /*!< FPCC
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 28
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 28
 
 
 1332:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1386:Drivers/CMSIS/Include/core_cm4.h **** 
 1387:Drivers/CMSIS/Include/core_cm4.h **** #define FPU_MVFR0_FP_excep_trapping_Pos    12U                                            /*!< MVFR
 1388:Drivers/CMSIS/Include/core_cm4.h **** #define FPU_MVFR0_FP_excep_trapping_Msk    (0xFUL << FPU_MVFR0_FP_excep_trapping_Pos)     /*!< MVFR
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 29
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 29
 
 
 1389:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1443:Drivers/CMSIS/Include/core_cm4.h **** #define CoreDebug_DHCSR_S_LOCKUP_Pos       19U                                            /*!< Core
 1444:Drivers/CMSIS/Include/core_cm4.h **** #define CoreDebug_DHCSR_S_LOCKUP_Msk       (1UL << CoreDebug_DHCSR_S_LOCKUP_Pos)          /*!< Core
 1445:Drivers/CMSIS/Include/core_cm4.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 30
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 30
 
 
 1446:Drivers/CMSIS/Include/core_cm4.h **** #define CoreDebug_DHCSR_S_SLEEP_Pos        18U                                            /*!< Core
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1500:Drivers/CMSIS/Include/core_cm4.h **** #define CoreDebug_DEMCR_VC_BUSERR_Msk      (1UL << CoreDebug_DEMCR_VC_BUSERR_Pos)         /*!< Core
 1501:Drivers/CMSIS/Include/core_cm4.h **** 
 1502:Drivers/CMSIS/Include/core_cm4.h **** #define CoreDebug_DEMCR_VC_STATERR_Pos      7U                                            /*!< Core
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 31
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 31
 
 
 1503:Drivers/CMSIS/Include/core_cm4.h **** #define CoreDebug_DEMCR_VC_STATERR_Msk     (1UL << CoreDebug_DEMCR_VC_STATERR_Pos)        /*!< Core
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1557:Drivers/CMSIS/Include/core_cm4.h **** #define TPI_BASE            (0xE0040000UL)                            /*!< TPI Base Address */
 1558:Drivers/CMSIS/Include/core_cm4.h **** #define CoreDebug_BASE      (0xE000EDF0UL)                            /*!< Core Debug Base Address 
 1559:Drivers/CMSIS/Include/core_cm4.h **** #define SysTick_BASE        (SCS_BASE +  0x0010UL)                    /*!< SysTick Base Address */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 32
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 32
 
 
 1560:Drivers/CMSIS/Include/core_cm4.h **** #define NVIC_BASE           (SCS_BASE +  0x0100UL)                    /*!< NVIC Base Address */
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1614:Drivers/CMSIS/Include/core_cm4.h ****   #define NVIC_EnableIRQ              __NVIC_EnableIRQ
 1615:Drivers/CMSIS/Include/core_cm4.h ****   #define NVIC_GetEnableIRQ           __NVIC_GetEnableIRQ
 1616:Drivers/CMSIS/Include/core_cm4.h ****   #define NVIC_DisableIRQ             __NVIC_DisableIRQ
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 33
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 33
 
 
 1617:Drivers/CMSIS/Include/core_cm4.h ****   #define NVIC_GetPendingIRQ          __NVIC_GetPendingIRQ
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
   64              	.LVL2:
 1663:Drivers/CMSIS/Include/core_cm4.h ****   reg_value &= ~((uint32_t)(SCB_AIRCR_VECTKEY_Msk | SCB_AIRCR_PRIGROUP_Msk)); /* clear bits to chan
   65              		.loc 2 1663 3 is_stmt 1 view .LVU9
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 34
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 34
 
 
   66              		.loc 2 1663 13 is_stmt 0 view .LVU10
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  111              	.LFE130:
  113              		.section	.text.HAL_NVIC_SetPriority,"ax",%progbits
  114              		.align	1
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 35
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 35
 
 
  115              		.global	HAL_NVIC_SetPriority
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  172:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   
  173:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   prioritygroup = NVIC_GetPriorityGrouping();
  149              		.loc 1 173 3 view .LVU28
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 36
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 36
 
 
  150              	.LBB46:
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1703:Drivers/CMSIS/Include/core_cm4.h ****   \note    IRQn must not be negative.
 1704:Drivers/CMSIS/Include/core_cm4.h ****  */
 1705:Drivers/CMSIS/Include/core_cm4.h **** __STATIC_INLINE uint32_t __NVIC_GetEnableIRQ(IRQn_Type IRQn)
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 37
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 37
 
 
 1706:Drivers/CMSIS/Include/core_cm4.h **** {
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1760:Drivers/CMSIS/Include/core_cm4.h ****   \note    IRQn must not be negative.
 1761:Drivers/CMSIS/Include/core_cm4.h ****  */
 1762:Drivers/CMSIS/Include/core_cm4.h **** __STATIC_INLINE void __NVIC_SetPendingIRQ(IRQn_Type IRQn)
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 38
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 38
 
 
 1763:Drivers/CMSIS/Include/core_cm4.h **** {
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1817:Drivers/CMSIS/Include/core_cm4.h **** {
 1818:Drivers/CMSIS/Include/core_cm4.h ****   if ((int32_t)(IRQn) >= 0)
 1819:Drivers/CMSIS/Include/core_cm4.h ****   {
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 39
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 39
 
 
 1820:Drivers/CMSIS/Include/core_cm4.h ****     NVIC->IP[((uint32_t)IRQn)]               = (uint8_t)((priority << (8U - __NVIC_PRIO_BITS)) & (u
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1869:Drivers/CMSIS/Include/core_cm4.h ****   PreemptPriorityBits = ((7UL - PriorityGroupTmp) > (uint32_t)(__NVIC_PRIO_BITS)) ? (uint32_t)(__NV
  172              		.loc 2 1869 3 view .LVU39
  173              		.loc 2 1869 31 is_stmt 0 view .LVU40
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 40
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 40
 
 
  174 0018 C3F10701 		rsb	r1, r3, #7
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  218              		.loc 2 1818 6 is_stmt 0 view .LVU56
  219 0042 002D     		cmp	r5, #0
  220 0044 14DB     		blt	.L11
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 41
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 41
 
 
 1820:Drivers/CMSIS/Include/core_cm4.h ****   }
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1870:Drivers/CMSIS/Include/core_cm4.h **** 
  263              		.loc 2 1870 109 view .LVU69
  264 006c 0023     		movs	r3, #0
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 42
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 42
 
 
  265              	.LVL32:
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  179:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * @brief  Enables a device specific interrupt in the NVIC interrupt controller.
  180:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * @note   To configure interrupts priority correctly, the NVIC_PriorityGroupConfig()
  181:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   *         function should be called before. 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 43
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 43
 
 
  182:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * @param  IRQn External interrupt number.
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  345 0014 044A     		ldr	r2, .L24
  346 0016 42F82430 		str	r3, [r2, r4, lsl #2]
  347              	.L19:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 44
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 44
 
 
 1692:Drivers/CMSIS/Include/core_cm4.h ****   }
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  390              		.cfi_offset 14, -4
  205:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   /* Check the parameters */
  206:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   assert_param(IS_NVIC_DEVICE_IRQ(IRQn));
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 45
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 45
 
 
  391              		.loc 1 206 3 is_stmt 1 view .LVU97
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
   12:Drivers/CMSIS/Include/cmsis_gcc.h ****  * Licensed under the Apache License, Version 2.0 (the License); you may
   13:Drivers/CMSIS/Include/cmsis_gcc.h ****  * not use this file except in compliance with the License.
   14:Drivers/CMSIS/Include/cmsis_gcc.h ****  * You may obtain a copy of the License at
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 46
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 46
 
 
   15:Drivers/CMSIS/Include/cmsis_gcc.h ****  *
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
   69:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
   70:Drivers/CMSIS/Include/cmsis_gcc.h **** #ifndef   __UNALIGNED_UINT32        /* deprecated */
   71:Drivers/CMSIS/Include/cmsis_gcc.h ****   #pragma GCC diagnostic push
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 47
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 47
 
 
   72:Drivers/CMSIS/Include/cmsis_gcc.h ****   #pragma GCC diagnostic ignored "-Wpacked"
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  126:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Enables IRQ interrupts by clearing the I-bit in the CPSR.
  127:Drivers/CMSIS/Include/cmsis_gcc.h ****            Can only be executed in Privileged modes.
  128:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 48
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 48
 
 
  129:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE void __enable_irq(void)
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  183:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("MSR control, %0" : : "r" (control) : "memory");
  184:Drivers/CMSIS/Include/cmsis_gcc.h **** }
  185:Drivers/CMSIS/Include/cmsis_gcc.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 49
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 49
 
 
  186:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  240:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  241:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  242:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 50
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 50
 
 
  243:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get Process Stack Pointer
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  297:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get Main Stack Pointer
  298:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Returns the current value of the Main Stack Pointer (MSP).
  299:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               MSP Register value
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 51
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 51
 
 
  300:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  354:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               SP Register value
  355:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
  356:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE uint32_t __TZ_get_SP_NS(void)
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 52
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 52
 
 
  357:Drivers/CMSIS/Include/cmsis_gcc.h **** {
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  411:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
  412:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE void __set_PRIMASK(uint32_t priMask)
  413:Drivers/CMSIS/Include/cmsis_gcc.h **** {
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 53
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 53
 
 
  414:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("MSR primask, %0" : : "r" (priMask) : "memory");
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  468:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  469:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  470:Drivers/CMSIS/Include/cmsis_gcc.h **** #if (defined (__ARM_FEATURE_CMSE ) && (__ARM_FEATURE_CMSE == 3))
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 54
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 54
 
 
  471:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  525:Drivers/CMSIS/Include/cmsis_gcc.h ****   \return               Fault Mask register value
  526:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
  527:Drivers/CMSIS/Include/cmsis_gcc.h **** __STATIC_FORCEINLINE uint32_t __get_FAULTMASK(void)
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 55
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 55
 
 
  528:Drivers/CMSIS/Include/cmsis_gcc.h **** {
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  582:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  583:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
  584:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get Process Stack Pointer Limit
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 56
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 56
 
 
  585:Drivers/CMSIS/Include/cmsis_gcc.h ****   Devices without ARMv8-M Main Extensions (i.e. Cortex-M23) lack the non-secure
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  639:Drivers/CMSIS/Include/cmsis_gcc.h **** #if (!(defined (__ARM_ARCH_8M_MAIN__ ) && (__ARM_ARCH_8M_MAIN__ == 1)) && \
  640:Drivers/CMSIS/Include/cmsis_gcc.h ****     (!defined (__ARM_FEATURE_CMSE) || (__ARM_FEATURE_CMSE < 3)))
  641:Drivers/CMSIS/Include/cmsis_gcc.h ****   // without main extensions, the non-secure PSPLIM is RAZ/WI
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 57
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 57
 
 
  642:Drivers/CMSIS/Include/cmsis_gcc.h ****   (void)ProcStackPtrLimit;
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  696:Drivers/CMSIS/Include/cmsis_gcc.h ****   Devices without ARMv8-M Main Extensions (i.e. Cortex-M23) lack the non-secure
  697:Drivers/CMSIS/Include/cmsis_gcc.h ****   Stack Pointer Limit register hence zero is returned always.
  698:Drivers/CMSIS/Include/cmsis_gcc.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 58
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 58
 
 
  699:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Returns the current value of the non-secure Main Stack Pointer Limit(MSPLIM) when in sec
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  753:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
  754:Drivers/CMSIS/Include/cmsis_gcc.h **** }
  755:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 59
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 59
 
 
  756:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  810:Drivers/CMSIS/Include/cmsis_gcc.h **** /*@} end of CMSIS_Core_RegAccFunctions */
  811:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  812:Drivers/CMSIS/Include/cmsis_gcc.h **** 
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 60
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 60
 
 
  813:Drivers/CMSIS/Include/cmsis_gcc.h **** /* ##########################  Core Instruction Access  ######################### */
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  867:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  868:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("isb 0xF":::"memory");
  869:Drivers/CMSIS/Include/cmsis_gcc.h **** }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 61
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 61
 
 
  870:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  459              		.loc 1 206 3 discriminator 1 view .LVU116
  460 002a FFF7FEFF 		bl	assert_failed
  461              	.LVL47:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 62
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 62
 
 
  462 002e EAE7     		b	.L27
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1895:Drivers/CMSIS/Include/core_cm4.h **** 
 1896:Drivers/CMSIS/Include/core_cm4.h ****   PreemptPriorityBits = ((7UL - PriorityGroupTmp) > (uint32_t)(__NVIC_PRIO_BITS)) ? (uint32_t)(__NV
 1897:Drivers/CMSIS/Include/core_cm4.h ****   SubPriorityBits     = ((PriorityGroupTmp + (uint32_t)(__NVIC_PRIO_BITS)) < (uint32_t)7UL) ? (uint
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 63
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 63
 
 
 1898:Drivers/CMSIS/Include/core_cm4.h **** 
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  498              	@ 879 "Drivers/CMSIS/Include/cmsis_gcc.h" 1
  499 0000 BFF34F8F 		dsb 0xF
  500              	@ 0 "" 2
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 64
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 64
 
 
  501              		.thumb
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  542 001a 00BF     		.align	2
  543              	.L35:
  544 001c 00ED00E0 		.word	-536810240
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 65
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 65
 
 
  545 0020 0400FA05 		.word	100270084
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1971:Drivers/CMSIS/Include/core_cm4.h ****  */
 1972:Drivers/CMSIS/Include/core_cm4.h **** 
 1973:Drivers/CMSIS/Include/core_cm4.h **** /**
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 66
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 66
 
 
 1974:Drivers/CMSIS/Include/core_cm4.h ****   \brief   get FPU type
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  572              		.loc 2 2024 14 is_stmt 0 view .LVU138
  573 0000 0138     		subs	r0, r0, #1
  574              	.LVL49:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 67
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 67
 
 
  575              		.loc 2 2024 6 view .LVU139
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  612              		.loc 2 2026 12 view .LVU155
  613 0020 0120     		movs	r0, #1
  614              	.LVL53:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 68
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 68
 
 
 2026:Drivers/CMSIS/Include/core_cm4.h ****   }
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  261:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   __DMB();
  641              		.loc 1 261 3 view .LVU159
  642              	.LBB86:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 69
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 69
 
 
  643              	.LBI86:
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  681              	HAL_MPU_Enable:
  682              	.LVL54:
  683              	.LFB137:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 70
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 70
 
 
  269:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c **** 
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  714              	.LBE88:
  291:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   __ISB();
  715              		.loc 1 291 3 view .LVU176
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 71
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 71
 
 
  716              	.LBB90:
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  303:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   assert_param(IS_MPU_REGION_NUMBER(MPU_Init->Number));
  759              		.loc 1 303 3 is_stmt 1 view .LVU182
  760 0004 4378     		ldrb	r3, [r0, #1]	@ zero_extendqisi2
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 72
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 72
 
 
  761 0006 072B     		cmp	r3, #7
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  803              		.loc 1 315 5 view .LVU195
  804 0038 637B     		ldrb	r3, [r4, #13]	@ zero_extendqisi2
  805 003a 012B     		cmp	r3, #1
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 73
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 73
 
 
  806 003c 4BD8     		bhi	.L67
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  325:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****                 ((uint32_t)MPU_Init->IsShareable             << MPU_RASR_S_Pos)    |
  849              		.loc 1 325 36 view .LVU210
  850 0072 617B     		ldrb	r1, [r4, #13]	@ zero_extendqisi2
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 74
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 74
 
 
  324:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****                 ((uint32_t)MPU_Init->TypeExtField            << MPU_RASR_TEX_Pos)  |
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  884              		.loc 1 303 3 discriminator 1 view .LVU225
  885 00a0 FFF7FEFF 		bl	assert_failed
  886              	.LVL60:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 75
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 75
 
 
  887 00a4 B1E7     		b	.L49
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  934 00f4 FFF7FEFF 		bl	assert_failed
  935              	.LVL67:
  936 00f8 A7E7     		b	.L57
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 76
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 76
 
 
  937              	.L70:
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  979              		.loc 1 345 1 is_stmt 1 view -0
  980              		.cfi_startproc
  981              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 77
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 77
 
 
  982              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  366:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   *                                      0 bits for subpriority
  367:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * @param  pPreemptPriority Pointer on the Preemptive priority value (starting from 0).
  368:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * @param  pSubPriority Pointer on the Subpriority value (starting from 0).
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 78
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 78
 
 
  369:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   * @retval None
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1055 0018 05F56145 		add	r5, r5, #57600
  1056 001c 95F80033 		ldrb	r3, [r5, #768]	@ zero_extendqisi2
 1843:Drivers/CMSIS/Include/core_cm4.h ****   }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 79
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 79
 
 
  1057              		.loc 2 1843 64 view .LVU257
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1096 003c 4FF0FF30 		mov	r0, #-1
  1097              	.LVL79:
 1899:Drivers/CMSIS/Include/core_cm4.h ****   *pSubPriority     = (Priority                   ) & (uint32_t)((1UL << (SubPriorityBits    )) - 1
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 80
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 80
 
 
  1098              		.loc 2 1899 53 view .LVU273
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1138              		.loc 2 1847 50 is_stmt 0 view .LVU287
  1139 0062 05F00F05 		and	r5, r5, #15
  1140              	.LVL89:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 81
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 81
 
 
 1847:Drivers/CMSIS/Include/core_cm4.h ****   }
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1182              		@ frame_needed = 0, uses_anonymous_args = 0
  1183              		.loc 1 387 1 is_stmt 0 view .LVU294
  1184 0000 10B5     		push	{r4, lr}
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 82
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 82
 
 
  1185              	.LCFI6:
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  389:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   
  1224              		.loc 1 389 3 discriminator 1 view .LVU307
  1225 001e 40F28511 		movw	r1, #389
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 83
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 83
 
 
  1226 0022 0348     		ldr	r0, .L92+4
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  410:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   return NVIC_GetPendingIRQ(IRQn);
  1265              		.loc 1 410 3 view .LVU312
  1266              	.LBB108:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 84
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 84
 
 
  1267              	.LBI108:
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1751:Drivers/CMSIS/Include/core_cm4.h ****   }
  1308              		.loc 2 1751 11 view .LVU326
  1309 002e 0020     		movs	r0, #0
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 85
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 85
 
 
  1310              	.LVL105:
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1349              		.loc 1 426 3 view .LVU332
  1350              	.LBB112:
  1351              	.LBI112:
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 86
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 86
 
 
 1777:Drivers/CMSIS/Include/core_cm4.h **** {
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1395              		.section	.text.HAL_NVIC_GetActive,"ax",%progbits
  1396              		.align	1
  1397              		.global	HAL_NVIC_GetActive
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 87
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 87
 
 
  1398              		.syntax unified
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
 1798:Drivers/CMSIS/Include/core_cm4.h ****   }
  1432              		.loc 2 1798 35 view .LVU354
  1433 000c 8033     		adds	r3, r3, #128
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 88
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 88
 
 
  1434 000e 094A     		ldr	r2, .L115
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1479              		.section	.text.HAL_SYSTICK_CLKSourceConfig,"ax",%progbits
  1480              		.align	1
  1481              		.global	HAL_SYSTICK_CLKSourceConfig
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 89
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 89
 
 
  1482              		.syntax unified
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1517              	.L117:
  465:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c ****   }
  466:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c **** }
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 90
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 90
 
 
  1518              		.loc 1 466 1 view .LVU373
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1554              		.loc 1 482 1 is_stmt 1 view -0
  1555              		.cfi_startproc
  1556              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 91
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 91
 
 
  1557              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -5446,67 +5446,67 @@ ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 1
  1595              		.file 7 "Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h"
  1596              		.file 8 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h"
  1597              		.file 9 "Core/Inc/stm32f4xx_hal_conf.h"
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 92
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 92
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 stm32f4xx_hal_cortex.c
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:20     .rodata.HAL_NVIC_SetPriorityGrouping.str1.4:00000000 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:25     .text.HAL_NVIC_SetPriorityGrouping:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:31     .text.HAL_NVIC_SetPriorityGrouping:00000000 HAL_NVIC_SetPriorityGrouping
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:108    .text.HAL_NVIC_SetPriorityGrouping:00000034 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:114    .text.HAL_NVIC_SetPriority:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:120    .text.HAL_NVIC_SetPriority:00000000 HAL_NVIC_SetPriority
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:295    .text.HAL_NVIC_SetPriority:00000080 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:302    .text.HAL_NVIC_EnableIRQ:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:308    .text.HAL_NVIC_EnableIRQ:00000000 HAL_NVIC_EnableIRQ
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:366    .text.HAL_NVIC_EnableIRQ:00000028 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:372    .text.HAL_NVIC_DisableIRQ:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:378    .text.HAL_NVIC_DisableIRQ:00000000 HAL_NVIC_DisableIRQ
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:466    .text.HAL_NVIC_DisableIRQ:00000030 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:472    .text.HAL_NVIC_SystemReset:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:478    .text.HAL_NVIC_SystemReset:00000000 HAL_NVIC_SystemReset
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:544    .text.HAL_NVIC_SystemReset:0000001c $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:552    .text.HAL_SYSTICK_Config:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:558    .text.HAL_SYSTICK_Config:00000000 HAL_SYSTICK_Config
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:623    .text.HAL_SYSTICK_Config:00000024 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:628    .text.HAL_MPU_Disable:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:634    .text.HAL_MPU_Disable:00000000 HAL_MPU_Disable
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:670    .text.HAL_MPU_Disable:00000018 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:675    .text.HAL_MPU_Enable:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:681    .text.HAL_MPU_Enable:00000000 HAL_MPU_Enable
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:734    .text.HAL_MPU_Enable:0000001c $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:739    .text.HAL_MPU_ConfigRegion:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:745    .text.HAL_MPU_ConfigRegion:00000000 HAL_MPU_ConfigRegion
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:965    .text.HAL_MPU_ConfigRegion:00000120 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:971    .text.HAL_NVIC_GetPriorityGrouping:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:977    .text.HAL_NVIC_GetPriorityGrouping:00000000 HAL_NVIC_GetPriorityGrouping
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1001   .text.HAL_NVIC_GetPriorityGrouping:0000000c $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1006   .text.HAL_NVIC_GetPriority:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1012   .text.HAL_NVIC_GetPriority:00000000 HAL_NVIC_GetPriority
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1162   .text.HAL_NVIC_GetPriority:00000074 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1170   .text.HAL_NVIC_SetPendingIRQ:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1176   .text.HAL_NVIC_SetPendingIRQ:00000000 HAL_NVIC_SetPendingIRQ
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1235   .text.HAL_NVIC_SetPendingIRQ:0000002c $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1241   .text.HAL_NVIC_GetPendingIRQ:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1247   .text.HAL_NVIC_GetPendingIRQ:00000000 HAL_NVIC_GetPendingIRQ
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1319   .text.HAL_NVIC_GetPendingIRQ:00000034 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1325   .text.HAL_NVIC_ClearPendingIRQ:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1331   .text.HAL_NVIC_ClearPendingIRQ:00000000 HAL_NVIC_ClearPendingIRQ
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1390   .text.HAL_NVIC_ClearPendingIRQ:0000002c $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1396   .text.HAL_NVIC_GetActive:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1402   .text.HAL_NVIC_GetActive:00000000 HAL_NVIC_GetActive
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1474   .text.HAL_NVIC_GetActive:00000034 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1480   .text.HAL_SYSTICK_CLKSourceConfig:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1486   .text.HAL_SYSTICK_CLKSourceConfig:00000000 HAL_SYSTICK_CLKSourceConfig
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1541   .text.HAL_SYSTICK_CLKSourceConfig:00000038 $d
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1546   .text.HAL_SYSTICK_Callback:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1552   .text.HAL_SYSTICK_Callback:00000000 HAL_SYSTICK_Callback
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1565   .text.HAL_SYSTICK_IRQHandler:00000000 $t
-C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s:1571   .text.HAL_SYSTICK_IRQHandler:00000000 HAL_SYSTICK_IRQHandler
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:20     .rodata.HAL_NVIC_SetPriorityGrouping.str1.4:00000000 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:25     .text.HAL_NVIC_SetPriorityGrouping:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:31     .text.HAL_NVIC_SetPriorityGrouping:00000000 HAL_NVIC_SetPriorityGrouping
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:108    .text.HAL_NVIC_SetPriorityGrouping:00000034 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:114    .text.HAL_NVIC_SetPriority:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:120    .text.HAL_NVIC_SetPriority:00000000 HAL_NVIC_SetPriority
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:295    .text.HAL_NVIC_SetPriority:00000080 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:302    .text.HAL_NVIC_EnableIRQ:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:308    .text.HAL_NVIC_EnableIRQ:00000000 HAL_NVIC_EnableIRQ
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:366    .text.HAL_NVIC_EnableIRQ:00000028 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:372    .text.HAL_NVIC_DisableIRQ:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:378    .text.HAL_NVIC_DisableIRQ:00000000 HAL_NVIC_DisableIRQ
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:466    .text.HAL_NVIC_DisableIRQ:00000030 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:472    .text.HAL_NVIC_SystemReset:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:478    .text.HAL_NVIC_SystemReset:00000000 HAL_NVIC_SystemReset
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:544    .text.HAL_NVIC_SystemReset:0000001c $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:552    .text.HAL_SYSTICK_Config:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:558    .text.HAL_SYSTICK_Config:00000000 HAL_SYSTICK_Config
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:623    .text.HAL_SYSTICK_Config:00000024 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:628    .text.HAL_MPU_Disable:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:634    .text.HAL_MPU_Disable:00000000 HAL_MPU_Disable
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:670    .text.HAL_MPU_Disable:00000018 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:675    .text.HAL_MPU_Enable:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:681    .text.HAL_MPU_Enable:00000000 HAL_MPU_Enable
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:734    .text.HAL_MPU_Enable:0000001c $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:739    .text.HAL_MPU_ConfigRegion:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:745    .text.HAL_MPU_ConfigRegion:00000000 HAL_MPU_ConfigRegion
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:965    .text.HAL_MPU_ConfigRegion:00000120 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:971    .text.HAL_NVIC_GetPriorityGrouping:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:977    .text.HAL_NVIC_GetPriorityGrouping:00000000 HAL_NVIC_GetPriorityGrouping
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1001   .text.HAL_NVIC_GetPriorityGrouping:0000000c $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1006   .text.HAL_NVIC_GetPriority:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1012   .text.HAL_NVIC_GetPriority:00000000 HAL_NVIC_GetPriority
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1162   .text.HAL_NVIC_GetPriority:00000074 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1170   .text.HAL_NVIC_SetPendingIRQ:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1176   .text.HAL_NVIC_SetPendingIRQ:00000000 HAL_NVIC_SetPendingIRQ
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1235   .text.HAL_NVIC_SetPendingIRQ:0000002c $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1241   .text.HAL_NVIC_GetPendingIRQ:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1247   .text.HAL_NVIC_GetPendingIRQ:00000000 HAL_NVIC_GetPendingIRQ
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1319   .text.HAL_NVIC_GetPendingIRQ:00000034 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1325   .text.HAL_NVIC_ClearPendingIRQ:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1331   .text.HAL_NVIC_ClearPendingIRQ:00000000 HAL_NVIC_ClearPendingIRQ
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1390   .text.HAL_NVIC_ClearPendingIRQ:0000002c $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1396   .text.HAL_NVIC_GetActive:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1402   .text.HAL_NVIC_GetActive:00000000 HAL_NVIC_GetActive
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1474   .text.HAL_NVIC_GetActive:00000034 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1480   .text.HAL_SYSTICK_CLKSourceConfig:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1486   .text.HAL_SYSTICK_CLKSourceConfig:00000000 HAL_SYSTICK_CLKSourceConfig
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1541   .text.HAL_SYSTICK_CLKSourceConfig:00000038 $d
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1546   .text.HAL_SYSTICK_Callback:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1552   .text.HAL_SYSTICK_Callback:00000000 HAL_SYSTICK_Callback
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1565   .text.HAL_SYSTICK_IRQHandler:00000000 $t
+C:\Users\katre\AppData\Local\Temp\cckKrFn1.s:1571   .text.HAL_SYSTICK_IRQHandler:00000000 HAL_SYSTICK_IRQHandler
 
 UNDEFINED SYMBOLS
-ARM GAS  C:\Users\katre\AppData\Local\Temp\ccr6fo7M.s 			page 93
+ARM GAS  C:\Users\katre\AppData\Local\Temp\cckKrFn1.s 			page 93
 
 
 assert_failed
